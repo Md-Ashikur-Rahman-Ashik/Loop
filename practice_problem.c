@@ -114,3 +114,21 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i;
+
+//     for (i = 100; i >= 1; i--)
+//     {
+//         /* code */
+//         if (i % 2 != 0)
+//         {
+//             printf("The odd number is : %d\n", i);
+//         }
+//     }
+
+//     return 0;
+// }
