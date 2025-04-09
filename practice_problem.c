@@ -190,27 +190,40 @@
 //     return 0;
 // }
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main()
-{
-    int num1, num2;
+// int main()
+// {
+//     int num1, num2;
 
-    scanf("%d %d", &num1, &num2);
+//     scanf("%d %d", &num1, &num2);
 
-    if (num1 % num2 == 0)
-    {
-        printf("Yes");
-    }
-    else if (num2 % num1 == 0)
-    {
-        /* code */
-        printf("Yes");
-    }
-    else
-    {
-        printf("No");
-    }
+//     if (num1 % num2 == 0)
+//     {
+//         printf("Yes");
+//     }
+//     else if (num2 % num1 == 0)
+//     {
+//         /* code */
+//         printf("Yes");
+//     }
+//     else
+//     {
+//         printf("No");
+//     }
 
-    return 0;
-}
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     float num;
+
+//     scanf("%f", &num);
+
+//     printf("%.3f", num);
+
+//     return 0;
+// }
