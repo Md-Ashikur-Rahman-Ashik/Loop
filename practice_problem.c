@@ -58,3 +58,44 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i = -5;
+
+//     while (i < 3)
+//     {
+//         /* code */
+//         printf("hello\n");
+//         i += 2;
+//     }
+
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     for (int i = 4; i > 0; i--)
+//     {
+//         /* code */
+//         printf("%d\n", i);
+//     }
+
+//     return 0;
+// }
+
+#include <stdio.h>
+
+int main()
+{
+    int i = 5;
+    while (i < 10)
+    {
+        /* code */
+    }
+    
+}
