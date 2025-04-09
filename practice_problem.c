@@ -15,17 +15,31 @@
 //     return 0;
 // }
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main()
-{
-    int i = 0, j = 0;
+// int main()
+// {
+//     int i = 0, j = 0;
 
-    for (j = 1; j <= 5; j++)
-    {
-        /* code */
-        i++;
-    }
+//     for (j = 1; j <= 5; j++)
+//     {
+//         /* code */
+//         i++;
+//     }
 
-    printf("%d", j);
-}
+//     printf("%d", j);
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     for (int i = 0; i <= 10; i++)
+//     {
+//         /* code */
+//         int x = 4;
+//     }
+    
+//     printf("%d", i);
+
+//     return 0
+// }
