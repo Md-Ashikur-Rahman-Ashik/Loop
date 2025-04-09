@@ -172,3 +172,20 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int num, result;
+
+//     scanf("%d", &num);
+
+//     if (-1 <= num && num <= 100)
+//     {
+//         result = num + 5;
+//         printf("%d", result);
+//     }
+
+//     return 0;
+// }
