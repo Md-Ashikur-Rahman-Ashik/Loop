@@ -12,13 +12,27 @@
 //     return 0;
 // }
 
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i;
+
+//     for (i = 0; i <= 100; i = i + 4)
+//     {
+//         printf("%d\n", i);
+//     }
+
+//     return 0;
+// }
+
 #include <stdio.h>
 
 int main()
 {
     int i;
 
-    for (i = 0; i <= 100; i = i + 4)
+    for (i = 100; i >= 1; i--)
     {
         printf("%d\n", i);
     }
