@@ -8,7 +8,11 @@ int main()
     {
         if (i % 2 == 0)
         {
-            printf("The even number is = %d\n", i);
+            printf("\n%d is an even number", i);
+        }
+        else
+        {
+            printf("\n%d is an odd number", i);
         }
     }
 
