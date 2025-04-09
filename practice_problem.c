@@ -290,3 +290,28 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int num, i;
+
+//     scanf("%d", &num);
+
+//     for (i = 1; i <= num; i++)
+//     {
+//         /* code */
+//         if (i % 5 == 0)
+//         {
+//             /* code */
+//             printf("%d Yes\n", i);
+//         }
+//         else
+//         {
+//             printf("%d No\n", i);
+//         }
+//     }
+
+//     return 0;
+// }
