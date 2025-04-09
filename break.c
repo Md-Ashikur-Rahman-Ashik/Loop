@@ -1,17 +1,36 @@
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i;
+
+//     for (i = 1; i <= 100; i++)
+//     {
+//         printf("%d\n", i);
+
+//         if (i == 10)
+//         {
+//             break;
+//         }
+//     }
+
+//     return 0;
+// }
+
 #include <stdio.h>
 
 int main()
 {
     int i;
 
-    for (i = 1; i <= 100; i++)
+    for (i = 1; i <= 10; i++)
     {
-        printf("%d\n", i);
-
-        if (i == 10)
+        if (i == 5)
         {
-            break;
+            continue;
         }
+
+        printf("%d\n", i);
     }
 
     return 0;
