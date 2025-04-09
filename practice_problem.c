@@ -251,3 +251,25 @@
 
 //     return 0;
 // }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int num1;
+//     long long int num2;
+//     float num3;
+//     char character;
+
+//     scanf("%d\n", &num1);
+//     scanf("%lld\n", &num2);
+//     scanf("%f\n", &num3);
+//     scanf("%c", &character);
+
+//     printf("%d\n", num1);
+//     printf("%lld\n", num2);
+//     printf("%.2f\n", num3);
+//     printf("%c", character);
+
+//     return 0;
+// }
