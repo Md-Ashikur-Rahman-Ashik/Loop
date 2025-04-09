@@ -88,14 +88,29 @@
 //     return 0;
 // }
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main()
-{
-    int i = 5;
-    while (i < 10)
-    {
-        /* code */
-    }
-    
-}
+// int main()
+// {
+//     int i = 5;
+//     while (i < 10)
+//     {
+//         /* code */
+//     }
+
+// }
+
+// #include <stdio.h>
+
+// int main()
+// {
+//     int i, multiply, num = 8;
+
+//     for (i = 1; i <= 200; i++)
+//     {
+//         multiply = num * i;
+//         printf("%d X %d = %d\n", num, i, multiply);
+//     }
+
+//     return 0;
+// }
